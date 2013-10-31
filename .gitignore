@@ -1,0 +1,3 @@
+#This is a .gitigonre file. All files of the following types will be ignore by 
+#git when using git add -A. Typically one ignore .o files
+*.o
